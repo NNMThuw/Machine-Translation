@@ -1,0 +1,8 @@
+gradio
+transformers
+sentencepiece
+tokenizers==0.15.0
+torch==2.1.2
+regex==2023.10.3
+torchtext==0.16.2
+underthesea==6.8.0
