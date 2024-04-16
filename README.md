@@ -4,6 +4,11 @@
 
 **Technical Requirements:** Python, PyTorch, Gradio,...
 
+**Team Members:** 
++ Vo Thi Khanh Linh
++ Nguyen Nhat Minh Thu
++ Nguyen Dang Anh Thu
+
 **Descriptions**:
 + A natural language processing project, using *Seq2Seq* Architecture combine with *Bahdanau Attention* and *Teacher forcing* technique
 + Preprocessing and tokenization are performed for each language, with the creation of custom Vocabulary and Dataset classes for both training and testing phases
